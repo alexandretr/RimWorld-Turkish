@@ -39,7 +39,7 @@
   <PlanetTemperature_Low>Düşük</PlanetTemperature_Low>
   <PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
   <PlanetTemperature_High>Yükksek</PlanetTemperature_High>
-  <WorldSeed>Yerleşke</WorldSeed>
+  <WorldSeed>Yerleske</WorldSeed>
   <RandomizeSeed>Rastgele Yerleşke</RandomizeSeed>
   <PlanetCoverageTip>Gezegen her zaman aynı genişliktedir, fakat oynamak için gerekli olandan çok daha büyük olduğundan beri, tüm yüzeyi üretmiyoruz, çünkü çok uzun sürebilir. Oluşturmak istediğiniz yüzey yüzdesi budur.</PlanetCoverageTip>
   <WorldFactionsTab>Klanlar</WorldFactionsTab>
